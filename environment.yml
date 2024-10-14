@@ -1,0 +1,9 @@
+name: obsidian-attachment-cleanup
+channels:
+  - conda-forge
+  - anaconda
+  - anaconda-platform
+  - defaults
+dependencies:
+  - python=3
+  - send2trash
